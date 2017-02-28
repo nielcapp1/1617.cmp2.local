@@ -1,4 +1,4 @@
-APP=cmp2
+APP=1617_cmp2
 COURSE='CrossMedia Publishing II'
 AHSMAIL=kristof.raes@arteveldehs.be
 
@@ -7,7 +7,7 @@ AHSMAIL=kristof.raes@arteveldehs.be
 DB_NAME=${APP}_local
 DB_USER=${APP}_db_user
 DB_PASS=${APP}_db_password
-DB_DUMP=`dirname $0`/db_dumps
+DB_DUMP=../data/db_dumps
 DB_HOST=localhost
 DB_PREFIX=cmp2_
 
