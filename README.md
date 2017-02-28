@@ -36,7 +36,7 @@ $ git clone http://github.com/gdmgent/1617.cmp2.local
 Ga naar de projectmap, installeer en configureer de server en start die daarna op.
 
 ```
-$ cmp2
+$ cd 1617.cmp2.local
 $ artestead make --type wordpress --ip 192.168.10.45
 $ vu && vss
 vagrant@cmp$ dos2unix ~/cmp2.local/scripts/*
