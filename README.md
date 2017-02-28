@@ -39,8 +39,6 @@ Ga naar de projectmap, installeer en configureer de server en start die daarna o
 $ cmp2
 $ artestead make --type wordpress --ip 192.168.10.45
 $ vu && vss
-vagrant@cmp$ composer global require consolidation/cgr
-vagrant@cmp$ cgr wp-cli/wp-cli
 vagrant@cmp$ dos2unix ~/cmp2.local/scripts/*
 vagrant@cmp$ ~/cmp2.local/scripts/db_init.sh 
 vagrant@cmp$ ~/cmp2.local/scripts/wp_install_cli.sh
