@@ -51,5 +51,5 @@ $ _
 URI's
 -----
 
- - <http://www.cmp2.local>
- - <http://www.cmp2.local/admin>
+ - <http://www.1617.cmp2.local>
+ - <http://www.1617.cmp2.local/admin>
