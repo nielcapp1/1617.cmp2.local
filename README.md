@@ -40,11 +40,11 @@ $ cd 1617.cmp2.local
 $ artestead make --type wordpress --ip 192.168.10.45
 $ vu
 & vss
-vagrant@homestead$ dos2unix ~/1617.cmp2.local/scripts/*
-vagrant@homestead$ ~/1617.cmp2.local/scripts/db_init.sh 
-vagrant@homestead$ ~/1617.cmp2.local/scripts/wp_install_cli.sh
-vagrant@homestead$ ~/1617.cmp2.local/scripts/wp_install.sh
-vagrant@homestead$ exit
+vagrant@1617:~/1617.cmp2.local$ dos2unix ~/1617.cmp2.local/scripts/*
+vagrant@1617:~/1617.cmp2.local$ ~/1617.cmp2.local/scripts/db_init.sh 
+vagrant@1617:~/1617.cmp2.local$ ~/1617.cmp2.local/scripts/wp_install_cli.sh
+vagrant@1617:~/1617.cmp2.local$ ~/1617.cmp2.local/scripts/wp_install.sh
+vagrant@1617:~/1617.cmp2.local$ exit
 $ _
 ```
 
